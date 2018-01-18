@@ -2,3 +2,5 @@
 Ceci est mon premier projet hébergé sur GitHub !
 
 Je profite de l'occasion pour suivre le premier tutoriel proposé par GitHub !
+
+J'aimerais comprendre, nom d'un chien !
